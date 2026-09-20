@@ -1,0 +1,25 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+*.log
+
+# Build & Dependency Artifacts
+node_modules/
+dist/
+build/
